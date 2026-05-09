@@ -8,7 +8,7 @@ This repository implements core deep learning primitives with full forward and b
 
 ---
 
-## 📁 Structure
+## Structure
 
 ```
 deep-learning-fundamentals/
@@ -21,7 +21,7 @@ deep-learning-fundamentals/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -46,7 +46,7 @@ python advanced_backprop.py
 
 ---
 
-## 📚 Modules
+##  Modules
 
 ### `backprop_from_scratch.py`
 
@@ -243,7 +243,7 @@ Each operation records a `_backward_fn` closure that calls `.backward()` on its 
 
 ---
 
-## 🎓 Learning Concepts Covered
+##  Learning Concepts Covered
 
 - ✅ Forward and backward propagation
 - ✅ Activation functions and their derivatives
@@ -261,7 +261,7 @@ Each operation records a `_backward_fn` closure that calls `.backward()` on its 
 
 ---
 
-## 📖 References
+##  References
 
 - Goodfellow et al. — _Deep Learning_ (MIT Press, 2016)
 - He et al. — _Deep Residual Learning for Image Recognition_ (CVPR 2016)
@@ -271,7 +271,7 @@ Each operation records a `_backward_fn` closure that calls `.backward()` on its 
 
 ---
 
-## 💡 Why From Scratch?
+##  Why From Scratch?
 
 Understanding the low-level mechanics of deep learning is crucial for:
 
@@ -284,6 +284,6 @@ This repository removes the black box and shows exactly what happens at every st
 
 ---
 
-## 📝 License
+##  License
 
 This is educational code. Feel free to use, modify, and learn from it.
